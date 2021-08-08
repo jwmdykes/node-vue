@@ -1,0 +1,26 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "노드 배우는 프로젝트",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulazy1/node-vue.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "ulazy1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulazy1/node-vue/issues"
+  },
+  "homepage": "https://github.com/ulazy1/node-vue#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}
